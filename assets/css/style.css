@@ -1,5 +1,4 @@
 .shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
 
-
-#carousel3 .carousel-control-prev, .carousel-control-next { visibility: hidden; }
-#carousel3:hover .carousel-control-prev, .carousel-control-next { visibility: visible; }
+#carousel3 .carousel-control-prev, #carousel3 .carousel-control-next { visibility: hidden; }
+#carousel3:hover .carousel-control-prev, #carousel3:hover .carousel-control-next { visibility: visible; }
