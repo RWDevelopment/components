@@ -3,7 +3,7 @@
 #carousel3 .carousel-control-prev, #carousel3 .carousel-control-next { visibility: hidden; }
 #carousel3:hover .carousel-control-prev, #carousel3:hover .carousel-control-next { visibility: visible; }
 
-.carousel-control a:hover {text-decoration:none;}
+.carousel-control:hover {text-decoration:none;}
 
 .carousel-control-right-bottom {position:absolute;bottom:10px;right:12px;}
 .carousel-control-left-bottom {position:absolute;bottom:10px;left:12px;}
